@@ -1,0 +1,44 @@
+{
+  "klients": [
+    {
+      "id": "233",
+      "name": "skfnsdjk",
+      "tel": "435578579788674",
+      "zakaz": "ef",
+      "kategory": "fsd",
+      "date": "2024-01-25"
+    },
+    {
+      "id": "43545",
+      "name": "asqarcha",
+      "tel": "484989",
+      "zakaz": "dfsdf",
+      "kategory": "sdfsd",
+      "date": "2024-01-13"
+    },
+    {
+      "id": "54",
+      "name": "kbb",
+      "tel": "516454984484",
+      "zakaz": "lkmkm",
+      "kategory": "kjjkhjh",
+      "date": "2024-01-24"
+    },
+    {
+      "id": "25446",
+      "name": "dfg",
+      "tel": "11647",
+      "zakaz": "werewt",
+      "kategory": "werter",
+      "date": "2024-01-18"
+    },
+    {
+      "id": "254879",
+      "name": "sdfnjd",
+      "tel": "316484",
+      "zakaz": "sdklfjh",
+      "kategory": "lmsdbnfj",
+      "date": "2024-01-12"
+    }
+  ]
+}
